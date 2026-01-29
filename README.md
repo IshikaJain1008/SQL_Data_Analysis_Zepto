@@ -1,18 +1,19 @@
 # 📊 SQL Data Analysis Project – Zepto Dataset
 
-*Overview:*
+**Overview:**
 
 This repository contains a collection of SQL queries written in PostgreSQL to analyze a product-level dataset.
 The purpose of this project is to demonstrate practical SQL skills used in real-world data analytics, including filtering, aggregation, grouping, and insight generation.
 
-*Dataset:*
+**Dataset:**
+
 Dataset name: Zepto Product Dataset
 
 Format: CSV
 
 Granularity: Product-level data
 
-*Key attributes include:*
+**Key attributes include:**
 
 1.Product category and name
 
@@ -24,13 +25,13 @@ Granularity: Product-level data
 
 The dataset was first cleaned and prepared before being queried in PostgreSQL.
 
-*Tools Used:*
+**Tools Used:**
 
 1.PostgreSQL – Query execution and analysis
 
 2.SQL – Data extraction and insight generation
 
-*Analysis Covered:*
+**Analysis Covered:**
 
 The SQL queries in this file focus on:
 
@@ -48,11 +49,13 @@ The SQL queries in this file focus on:
 
 7..These queries are designed to answer business-relevant questions and simulate real analytics use cases.
 
-*File Description*
+**File Description**
+
 File Name	Description:
+
 Zepto_Data_SQL_Analysis.sql	Contains all SQL queries used for data analysis
 
-How to Use:
+**How to Use:**
 
 1.Create a table in PostgreSQL using the dataset schema
 
@@ -62,9 +65,10 @@ How to Use:
 
 4.Run queries sequentially to explore insights
 
-*Learning Outcome:*
+**Learning Outcome:**
 
 This project helped strengthen my understanding of:
+
 1.Writing clean and readable SQL queries
 
 2.Applying SQL for analytical problem-solving
@@ -72,6 +76,6 @@ This project helped strengthen my understanding of:
 3.Extracting insights from structured datasets
 4.It reflects my preparation for entry-level Data Analyst roles.
 
-*Notes:*
+**Notes:**
 1.Queries are written specifically for PostgreSQL syntax
 2.Column names follow snake_case conventions
